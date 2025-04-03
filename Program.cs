@@ -30,7 +30,7 @@ public class Program
         };
         
         // Display welcome message
-        Console.WriteLine("TopNet - System Monitor");
+        Console.WriteLine("TopNet - The .net System Monitor");
         Console.WriteLine("Press Ctrl+C to exit");
         Console.WriteLine();
         Console.WriteLine("Initializing...");
